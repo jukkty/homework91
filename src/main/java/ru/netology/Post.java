@@ -10,5 +10,8 @@ public class Post {
     private int date;
     private String imgUrl;
     private String authorID;
+    private int signerId;
+    private boolean markedAsAds;
+    private int ownerId;
 
 }
